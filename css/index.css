@@ -126,6 +126,10 @@ footer {
 	opacity: 0.5;
 }
 
+.footer-text {
+	display: inline;
+}
+
 ul li {
 	display: inline;
 	margin: 0 1.5rem;
@@ -207,5 +211,10 @@ h3 {
 
 	h1 {
 		font-size: 6rem;
+		text-align: center;
+	}
+
+	.footer-text {
+		display: block;
 	}
 }
