@@ -189,3 +189,23 @@ h3 {
 		margin: 0.75rem 0;
 	}
 }
+
+@media (max-width: 520px) {
+	#navbar {
+		height: 30%;
+	}
+
+	.header-body {
+		height: 70%;
+	}
+
+	ul li {
+		display: block;
+		text-align: center;
+		padding: 0.25rem 0;
+	}
+
+	h1 {
+		font-size: 6rem;
+	}
+}
